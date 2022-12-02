@@ -3,7 +3,7 @@
 Nice to meet you! People call me Christer. I’m a digital project manager, and solutions architect. I like to call it a "Digital Architect" but that isnt a thing, yet.
 
 I am currently running a startup called <a href="https://kalt.co">Kalt</a> that is blitzscaling the transition to fossil-free energy.
-
+<img src="https://avatars.githubusercontent.com/u/42318403?s=96&v=4">
 
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="" width="15" height="15" />
