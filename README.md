@@ -1,3 +1,6 @@
+<img src="https://github.com/justchrister/justchrister/blob/601a67819a3fad880815f0925872af3365145cf7/npm.png?raw=true" alt=""/>
+
+
 <h1>justchrister</h1>
 
 Nice to meet you! People call me Christer. I’m a digital project manager, and solutions architect. I like to call it a "Digital Architect" but that isnt a thing, yet.
