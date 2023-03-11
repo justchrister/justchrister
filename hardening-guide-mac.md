@@ -1,0 +1,1 @@
+# Hardening guide for macbooks
