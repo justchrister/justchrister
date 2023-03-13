@@ -5,7 +5,7 @@
 
 Nice to meet you! People call me Christer. I’m a digital project manager, and solutions architect. I like to call it a "Digital Architect" but that isnt a thing, yet.
 
-I am currently running a startup called <a href="https://kalt.co">Kalt</a> that is blitzscaling the transition to fossil-free energy.
+I am currently running a startup called <a href="https://kalt.co">Kalt</a> that is working to blitzscale the transition to fossil-free energy.
 
 
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
@@ -32,10 +32,12 @@ I am currently running a startup called <a href="https://kalt.co">Kalt</a> that 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="" width="15" height="15" />
   Express.js
 </a>
+<br>
 <a href="https://notion.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/452076/notion.svg" alt="" width="15" height="15" />
   Notion
 </a>
+<br>
 <a href="https://linear.app/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/333141/linear.svg" alt="" width="15" height="15" />
   Linear - project management
