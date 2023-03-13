@@ -32,6 +32,14 @@ I am currently running a startup called <a href="https://kalt.co">Kalt</a> that 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="" width="15" height="15" />
   Express.js
 </a>
+<a href="https://notion.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/452076/notion.svg" alt="" width="15" height="15" />
+  Notion
+</a>
+<a href="https://linear.app/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/333141/linear.svg" alt="" width="15" height="15" />
+  Linear - project management
+</a>
 <br>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="" width="15" height="15" />
