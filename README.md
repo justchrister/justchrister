@@ -53,4 +53,4 @@ I am currently running a startup called <a href="https://kalt.co">Kalt</a> that 
   Sentry
 </a>
 <br>
-**Contact** <a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"><img src="https://ka.lt/media/icons/discord.svg" alt="" width="17" height="17" />  Discord</a>
+**Contact** <a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"><img src="https://ka.lt/media/icons/discord.svg" alt="" width="13" height="13" />  Discord</a>
