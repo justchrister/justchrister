@@ -52,5 +52,3 @@ I am currently running a startup called <a href="https://kalt.co">Kalt</a> that 
   <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="" width="15" height="15" />
   Sentry
 </a>
-<br>
-<img src="https://ka.lt/media/icons/discord.svg" alt="" width="20" height="20" /><img src="https://ka.lt/media/icons/discord.svg" alt="" width="20" height="20" /><img src="https://ka.lt/media/icons/discord.svg" alt="" width="20" height="20" />
