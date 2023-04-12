@@ -9,3 +9,7 @@ I am currently running a startup called <a href="https://kalt.co">Kalt</a> that 
 
 
 Hit me up on Discord; christer#0001 or at christer@kalt.co
+
+<img src="https://raw.githubusercontent.com/justchrister/justchrister/main/website.svg alt="">
+
+<img src="https://raw.githubusercontent.com/justchrister/justchrister/main/discord.svg alt="">
