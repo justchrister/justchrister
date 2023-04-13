@@ -11,11 +11,14 @@
 ## Solution — Event triggers
 
 User-driven events:
--Dynamic and adaptive 🎯
--Reduces unnecessary load ⚡️
+- Dynamic and adaptive 🎯
+- Reduces unnecessary load ⚡️
+- No more "wait 5 mins and it should sync"
+- Or "that job runs every six minutes, and takes 10 minutes cause it syncs hundreds of user changes"
 
 System events:
 - Greater control and flexibility 🕹️
+- Oh, a new thing happened, lets do some stuff.
 - Easier adaptation to changing requirements 🔄
 
 ## Conclusion: 
