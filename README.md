@@ -9,4 +9,4 @@ Hit me up on Discord; chill#1999, or at hi@ka.lt
 <a href="https://github.com/justchrister/justchrister/blob/main/blog/cron.md">Cron jobs suck. Its time to wake up  😴</a>
 
 
-<a href=""> Serverless as a service: save time & money keep your sanity 🤯 </a>
+<a href=""> No servers, simply sanity </a>
