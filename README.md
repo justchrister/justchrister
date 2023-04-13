@@ -13,8 +13,6 @@ Hit me up on Discord; christer#0001 or at christer@ka.lt
 
 
 
-<h3> blog </h3>
+<h3> micro blog </h3>
 
-<a href="https://github.com/justchrister/justchrister/blob/main/blog/cron.md">Cron jobs? 😴 Time to wake up!</a>
-
-Why cron jobs basically sucks.
+<a href="https://github.com/justchrister/justchrister/blob/main/blog/cron.md">Cron jobs suck. Its time to wake up  😴</a>
