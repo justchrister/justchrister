@@ -8,7 +8,7 @@ Nice to meet you! People call me Christer. I’m a digital project manager, and 
 I am currently running a startup called <a href="https://kalt.co">Kalt</a> that is working to blitzscale the transition to fossil-free energy.
 
 
-Hit me up on Discord; christer#0001 or at christer@kalt.co
+Hit me up on Discord; christer#0001 or at christer@ka.lt
 
 
 
