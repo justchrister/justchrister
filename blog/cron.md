@@ -5,7 +5,8 @@
 2. Artificial coupling between tasks and time ⛓️
 3. Complications: resource contention, unexpected side effects, task failures 🤕
 4. Configuration headaches: time zones, daylight saving changes ⏰
-5. Cron Jobs: Coupling in Time and Unnecessary Complications
+5. Coupling in Time
+6. Unnecessary Complications
 
 ## Solution — Event triggers
 
