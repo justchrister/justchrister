@@ -18,7 +18,7 @@ User-driven events:
 
 System events:
 - Greater control and flexibility 🕹️
-- Oh, a new thing happened, lets do some stuff.
+- Oh, a new transaction happened, lets get the most recent exchange rates.
 - Easier adaptation to changing requirements 🔄
 
 ## Conclusion: 
