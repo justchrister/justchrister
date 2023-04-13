@@ -1,5 +1,10 @@
-# Hardening guide for macbooks
-Written by @justchrister on the 22.10.2020
+@justchrister 22.10.2020
+
+## make dock smaller
+```defaults write com.apple.dock tilesize -int 32; killall Dock```
+
+## lock the dock
+```defaults write com.apple.dock size-immutable -bool yes && killall Dock```
 
 ## Displaying file extensions help you identify malicious file.
 
