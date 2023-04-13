@@ -9,4 +9,7 @@ Hit me up on Discord; christer#0001, or at hi@ka.lt
 <a href="https://github.com/justchrister/justchrister/blob/main/blog/cron.md">Cron jobs suck. Its time to wake up  😴</a>
 
 
-<a href=""> No servers, simply sanity </a>
+<a href="https://github.com/justchrister/justchrister/blob/main/blog/serverless.md"> No servers, thank you </a>
+
+
+<a href="https://github.com/justchrister/justchrister/blob/main/blog/youth.md">  a brighter, more dynamic future for all! 🌟💡 </a>
