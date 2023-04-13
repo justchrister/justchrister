@@ -1,4 +1,4 @@
-<img src="https://github.com/justchrister/justchrister/blob/601a67819a3fad880815f0925872af3365145cf7/npm.png?raw=true" alt="" width="2000000px"/>
+<img src="https://github.com/justchrister/justchrister/blob/main/Screenshot%202023-04-13%20at%2021.21.18.png?raw=true" alt="" width="2000000px"/>
 
 
 <h1>justchrister</h1>
