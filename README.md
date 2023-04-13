@@ -10,6 +10,10 @@ I am currently running a startup called <a href="https://kalt.co">Kalt</a> that 
 
 Hit me up on Discord; christer#0001 or at christer@kalt.co
 
-<img src="https://raw.githubusercontent.com/justchrister/justchrister/main/website.svg" alt="">
 
-<img src="https://raw.githubusercontent.com/justchrister/justchrister/main/discord.svg" alt="">
+
+
+<h1> Blog! </h1>
+
+<a href="https://github.com/justchrister/justchrister/blob/main/blog/cron.md"> Cron jobs? 😴 Time to wake up! </a>
+Why cron jobs basically sucks.
