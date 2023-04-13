@@ -1,4 +1,4 @@
-<a href="https://github.com/justchrister/">← head back</a>
+<a href="https://github.com/justchrister/">← head back </a>
 
 # cron jobs < triggers 🚀
 
