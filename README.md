@@ -13,3 +13,6 @@ Hit me up on Discord; christer#0001, or at hi@ka.lt
 
 
 <a href="https://github.com/justchrister/justchrister/blob/main/blog/youth.md">  a brighter, more dynamic future for all! 🌟💡 </a>
+
+
+<a href="https://github.com/justchrister/justchrister/blob/main/blog/ts.md"> removing annoying TS stuff </a>
