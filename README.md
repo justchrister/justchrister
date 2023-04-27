@@ -3,6 +3,6 @@ Im christer, a digital project manager, and solutions architect. I call it a *Di
 Hit me up on Discord; christer#0001, or at hi@ka.lt
 
 Micro blog:
-- [Simply priority](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
+- [Simply priority - Project management](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
 - [Design principles](https://github.com/justchrister/justchrister/blob/main/blog/design.md)
 - [Anarchy as system architecture](https://github.com/justchrister/justchrister/blob/main/blog/architecture.md)
