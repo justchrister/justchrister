@@ -2,4 +2,5 @@ Im christer, a digital project manager, and solutions architect. I call it a *Di
 
 Hit me up on Discord; christer#0001, or at hi@ka.lt
 
-[Priority](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
+Micro blog:
+- [Priority](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
