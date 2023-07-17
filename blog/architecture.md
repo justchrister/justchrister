@@ -29,3 +29,12 @@ Adapters should not maintain their own state, further reducing complexity and en
 Each service maintains its own database for all its required information, ensuring that data is stored and managed efficiently and independently.
 
 Embracing anarchy as a system architecture can lead to increased flexibility, adaptability, and scalability. The decentralized nature of this approach encourages services to operate autonomously while still benefiting from a shared messaging system. This ultimately enables teams to build more resilient, modular, and adaptable systems, ready to tackle the challenges of the rapidly evolving technology landscape.
+
+## Global objects
+
+One success criteria for the system as a whole is the implementation of predefined global objects which are strict and limited. 
+
+Example: **exchangeOrder**
+```
+
+```
