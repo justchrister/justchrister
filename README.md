@@ -6,3 +6,4 @@ Micro blog:
 - [Priority](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
 - [Design](https://github.com/justchrister/justchrister/blob/main/blog/design.md)
 - [Architecture](https://github.com/justchrister/justchrister/blob/main/blog/architecture.md)
+- [Cron](https://github.com/justchrister/justchrister/blob/main/blog/cron.md)
