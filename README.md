@@ -12,6 +12,7 @@ Micro blog:
 - [Design](https://github.com/justchrister/justchrister/blob/main/blog/design.md)
 - [Architecture](https://github.com/justchrister/justchrister/blob/main/blog/architecture.md)
 - [Domain objects](https://github.com/justchrister/justchrister/blob/main/blog/domain-objects.md)
+- [Implicit ACL](https://github.com/justchrister/justchrister/blob/main/blog/implicit-acl.md)
 - [Cron](https://github.com/justchrister/justchrister/blob/main/blog/cron.md)
 
 Connect: christer@ka.lt / [@okchrister](https://twitter.com/okchrister)
