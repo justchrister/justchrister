@@ -20,6 +20,45 @@ A real-world scenario illustrates this. Think about a modern supply chain networ
 
 Another service with an endpoint only for environmental data can deliver a domain object subset as its external contract, where only the id, name and environemnetal impact data is included. 
 
+### Practical implementation
+#### A defined domain object
+```
+"accountTransaction": {
+  "meta": {
+    "messageId": "22c68302-2d2b-4321-89f7-842a16f47c02",
+    "messageEntityId": "f95b7c98-4a3e-48c8-ab1b-933722febdf5",
+    "messageSender": "actual/file/name.ts",
+    "messageSent": 1689674677,
+  }
+  "id": "654fbf2e-c738-4b28-80f2-9815f0acaf81",
+  "userId": "98550f72-6f55-49bc-b0dd-7d7ba346441f"
+  "accountId": 
+  "amount": 2934,
+  "currency": "EUR",
+  "type": "deposit",
+  "sybType": "subscription",
+  "autoInvestRate": 1,
+} 
+```
+1. `accountTransaction.currency` has a predefined type with the allowed currencies
+2. `accountTransaction.id` and `accountTransaction.userId` is strictly UUIDs
+
+#### Function for validation and publishing
+```
+messaging.publish('accountTransaction', {
+  "meta":{
+    "messageId": ok.uuid(),
+    "messageEntityId": "f95b7c98-4a3e-48c8-ab1b-933722febdf5",
+    "messageSender": "actual/file/name.ts",
+    "messageSent": ok.timestamptz(),
+  }
+  "id": "654fbf2e-c738-4b28-80f2-9815f0acaf81",
+  "amount": 229
+})
+```
+1. `ok.uuid()` support function generates a uuid
+2. `ok.timestamptz()` support function generates a timestamp
+
 ## Conclusion
 
 So, when you stumble upon architectural deviations, remember: "If you have to deviate from the architecture, the architecture sucks". In the world of business systems, the 'domain object' offers a paradigm shift. Through its integration within the adapter+service pattern, it creates an inherent anti-corruption layer, securing the data distribution and thereby enhancing the integrity of operations. It breaks down complex entities into manageable pieces with a single binding factor: the unique ID.
