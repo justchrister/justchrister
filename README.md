@@ -11,7 +11,7 @@ Micro blog:
 - [Priority](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
 - [Design](https://github.com/justchrister/justchrister/blob/main/blog/design.md)
 - [Architecture](https://github.com/justchrister/justchrister/blob/main/blog/architecture.md)
-- [Global objects](https://github.com/justchrister/justchrister/blob/main/blog/global-objects.md)
+- [Domain objects](https://github.com/justchrister/justchrister/blob/main/blog/domain-objects.md)
 - [Cron](https://github.com/justchrister/justchrister/blob/main/blog/cron.md)
 
 Connect: christer@ka.lt / [@okchrister](https://twitter.com/okchrister)
