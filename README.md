@@ -10,9 +10,9 @@ Fav songs atm:
 Micro blog:
 - [Priority](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
 - [Design](https://github.com/justchrister/justchrister/blob/main/blog/design.md)
-- [Architecture](https://github.com/justchrister/justchrister/blob/main/blog/architecture.md)
+- [Adapter-service pattern](https://github.com/justchrister/justchrister/blob/main/blog/architecture.md)
 - [Domain objects](https://github.com/justchrister/justchrister/blob/main/blog/domain-objects.md)
-- [Implicit ACL](https://github.com/justchrister/justchrister/blob/main/blog/implicit-acl.md)
+- [Implicit anti-corruption layer](https://github.com/justchrister/justchrister/blob/main/blog/implicit-acl.md)
 - [Cron](https://github.com/justchrister/justchrister/blob/main/blog/cron.md)
 
 Connect: christer@ka.lt / [@okchrister](https://twitter.com/okchrister)
