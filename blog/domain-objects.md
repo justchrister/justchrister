@@ -19,16 +19,21 @@ The 'domain object' concept, with its unique design and inherent flexibility, su
 A real-world scenario illustrates this. Think about a modern supply chain network where a 'domain object' may embody all data pertaining to a product — right from manufacturing to sales data. This 'domain object' becomes a standardized unit of data that is distributed across different systems involved in the supply chain. The mandatory requirement of the unique ID allows different stakeholders to distribute varying degrees of product data based on their operational needs, leading to an optimized supply chain process.
 
 Another service with an endpoint only for environmental data can deliver a domain object subset as its external contract, where only the id, name and environemnetal impact data is included. 
+### A reflection of the business
+The structure and specific implementation of the domain object should reflect the business.
+### Verbosity
+Verbosity should be at the top level, but not at a lower levels. This is to make the actual payloads size decreased in size.
+
 
 ### Practical implementation
 #### A defined domain object
 ```
 "accountTransaction": {
-  "meta": {
-    "messageId": "22c68302-2d2b-4321-89f7-842a16f47c02",
-    "messageEntityId": "f95b7c98-4a3e-48c8-ab1b-933722febdf5",
-    "messageSender": "actual/file/name.ts",
-    "messageSent": 1689674677,
+  "message": {
+    "id": "22c68302-2d2b-4321-89f7-842a16f47c02",
+    "entityId": "f95b7c98-4a3e-48c8-ab1b-933722febdf5",
+    "sender": "actual/file/name.ts",
+    "sent": 1689674677,
   }
   "id": "654fbf2e-c738-4b28-80f2-9815f0acaf81",
   "userId": "98550f72-6f55-49bc-b0dd-7d7ba346441f"
@@ -36,7 +41,7 @@ Another service with an endpoint only for environmental data can deliver a domai
   "amount": 2934,
   "currency": "EUR",
   "type": "deposit",
-  "sybType": "subscription",
+  "subType": "subscription",
   "autoInvestRate": 1,
 } 
 ```
