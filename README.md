@@ -8,11 +8,8 @@ Fav songs atm:
 3. [x ](https://www.youtube.com/watch?v=SpXw0qiy3Wo) by 21 savage 
 
 Micro blog:
-- [Priority](https://github.com/justchrister/justchrister/blob/main/blog/priority.md)
-- [Design](https://github.com/justchrister/justchrister/blob/main/blog/design.md)
-- [Adapter-service pattern](https://github.com/justchrister/justchrister/blob/main/blog/architecture.md)
-- [Domain objects](https://github.com/justchrister/justchrister/blob/main/blog/domain-objects.md)
-- [Implicit anti-corruption layer](https://github.com/justchrister/justchrister/blob/main/blog/implicit-acl.md)
-- [Cron](https://github.com/justchrister/justchrister/blob/main/blog/cron.md)
+- [Adapter-service pattern](https://medium.com/p/1d61c4bcca95)
+- [Domain objects](https://medium.com/p/bb7eb5db4856)
+- [Implicit anti-corruption layer](https://medium.com/p/63937f4fe67d)
 
 Connect: christer@ka.lt / [@okchrister](https://twitter.com/okchrister)
