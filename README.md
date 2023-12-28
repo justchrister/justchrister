@@ -12,4 +12,4 @@ Micro blog:
 - [Domain objects](https://medium.com/p/bb7eb5db4856)
 - [Implicit anti-corruption layer](https://medium.com/p/63937f4fe67d)
 
-Connect: christer@ka.lt / [@okchrister](https://twitter.com/okchrister)
+Connect: christer@ka.lt
