@@ -12,6 +12,6 @@ micro blog:
 - [The vision](https://ka.lt/vision)
 - [Product development principles](https://k-lt.medium.com/3517535a8a20)
 
-Connect: christer@ka.lt
+connect: christer@ka.lt
 
-To all VCs, accelerators, and similar reaching out: pre-seed is min. € 100K @ € 1.1M valuation
+to all VCs, accelerators, and similar reaching out: pre-seed is min. € 100K @ € 1.1M valuation.
