@@ -14,4 +14,4 @@ micro blog:
 
 connect: christer@ka.lt
 
-to all VCs, accelerators, and similar reaching out: pre-seed is min. € 100K @ € 1.1M valuation.
+to all VCs, accelerators, and similar reaching out: pre-seed is min. € 100K @ € 11M valuation.
