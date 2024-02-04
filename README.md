@@ -8,8 +8,7 @@ Fav songs atm:
 3. [x ](https://www.youtube.com/watch?v=SpXw0qiy3Wo) by 21 savage 
 
 Micro blog:
-- [Adapter-service pattern](https://medium.com/p/1d61c4bcca95)
-- [Domain objects](https://medium.com/p/bb7eb5db4856)
-- [Implicit anti-corruption layer](https://medium.com/p/63937f4fe67d)
+- [Product development principles](https://k-lt.medium.com/3517535a8a20)
+- [The Kalt method](https://k-lt.medium.com/afb1f91f981d)
 
 Connect: christer@ka.lt
