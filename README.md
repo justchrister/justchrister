@@ -1,6 +1,6 @@
 Im christer, a digital project manager, and solutions architect. I call it a *Digital Architect*. But that isnt a thing, yet. 
 
-Currently building a startup — <a href="https://ka.lt">Kalt</a> — a niché investment platform, where you buy shares in fossil-free energy infrastructure and earn dividends when energy is generated and sold.
+Currently building a startup — <a href="https://ka.lt">Kalt</a> — a niché impact investing platform, where you build a purpose-driven portfolio of real assets that create real impact and aligns with your values.
 
 Fav songs atm:
 1. [no name](https://www.youtube.com/watch?v=c3E8DW_u0a8) by gobbnjr
