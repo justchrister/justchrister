@@ -1,4 +1,4 @@
-Im christer, a digital project manager, and solutions architect. I call it a *Digital Architect*. But that isnt a thing, yet. 
+Im christer, a coder, founder, and friend. Im really interested in product development, systems-architecture, and finance. 
 
 Currently building a startup — <a href="https://ka.lt">Kalt</a> — a niché impact investing platform, where you build a purpose-driven portfolio of real assets that create real impact and aligns with your values.
 
