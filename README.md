@@ -12,3 +12,5 @@ Micro blog:
 - [The Kalt method](https://k-lt.medium.com/afb1f91f981d)
 
 Connect: christer@ka.lt
+
+To all the VCs and accelerators trying to email me: pre-seed is min. is 100k eur @ 1.1mln valuation
