@@ -13,4 +13,4 @@ Micro blog:
 
 Connect: christer@ka.lt
 
-To all the VCs and accelerators trying to email me: pre-seed is min. is 100k eur @ 1.1mln valuation
+To all VCs, accelerators, and similar reaching out: pre-seed is min. € 100K @ € 1.1M valuation
