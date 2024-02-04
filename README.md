@@ -8,7 +8,7 @@ fav songs atm:
 3. [x ](https://www.youtube.com/watch?v=SpXw0qiy3Wo) by 21 savage 
 
 micro blog:
-- [The Kalt method](https://k-lt.medium.com/afb1f91f981d)
+- [The method](https://k-lt.medium.com/afb1f91f981d)
 - [The vision](https://ka.lt/vision)
 - [Product development principles](https://k-lt.medium.com/3517535a8a20)
 
