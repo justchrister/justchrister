@@ -1,6 +1,6 @@
-Im christer, a coder, founder, and friend. Im really interested in product development, systems-architecture, and finance. 
+im christer, a coder, founder, and friend. im really interested in product development, systems-architecture, and finance. 
 
-Currently building a startup — <a href="https://ka.lt">Kalt</a> — a niché impact investing platform, where you build a purpose-driven portfolio of real assets that create real impact and which aligns with your values. [Co-founders needed!](https://ka.lt/jobs)
+currently building a startup — <a href="https://ka.lt">Kalt</a> — the real impact investing platform; where anyone can build a purpose-driven portfolio of real assets that create real impact and which aligns with your values. [co-founding engineers needed!](https://ka.lt/jobs)
 
 fav songs atm:
 1. [no name](https://www.youtube.com/watch?v=c3E8DW_u0a8) by gobbnjr
