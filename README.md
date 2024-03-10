@@ -11,6 +11,9 @@ micro blog:
 - [The method](https://k-lt.medium.com/afb1f91f981d)
 - [The vision](https://ka.lt/vision)
 
+must watch talks: [youtube ↗](https://www.youtube.com/playlist?list=PLpINr3cnEpaDbzmzf67x5vbjyZpdpFa_E)
+must read books: [books.md](https://github.com/justchrister/justchrister/blob/main/books.md)
+
 connect: christer@ka.lt
 
 to all VCs, accelerators, and similar reaching out: pre-seed is min. € 100K @ € 11M valuation.
