@@ -12,6 +12,7 @@ micro blog:
 - [The vision](https://ka.lt/vision)
 
 must watch talks: [youtube ↗](https://www.youtube.com/playlist?list=PLpINr3cnEpaDbzmzf67x5vbjyZpdpFa_E)
+
 must read books: [books.md](https://github.com/justchrister/justchrister/blob/main/books.md)
 
 connect: christer@ka.lt
