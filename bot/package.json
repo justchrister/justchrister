@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "bot",
+  "main": "index.ts",
+  "scripts": {
+    "follow": "node follow.mjs"
+  },
+  "author": "",
+  "license": "N/A",
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.6.0"
+  }
+}
