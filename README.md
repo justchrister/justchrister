@@ -5,7 +5,7 @@ currently building a startup — <a href="https://ka.lt">Kalt</a> — the real i
 fav songs atm:
 1. [no name](https://www.youtube.com/watch?v=c3E8DW_u0a8) by gobbnjr
 2. [go](https://www.youtube.com/watch?v=OOFNUh80Jnw) by yowler
-3. [x ](https://www.youtube.com/watch?v=SpXw0qiy3Wo) by 21 savage 
+3. [land where i land ](https://www.youtube.com/watch?v=ttv0eOktBtU) by novo amor 
 
 micro blog:
 - [The method](https://k-lt.medium.com/afb1f91f981d)
