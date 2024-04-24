@@ -1,15 +1,15 @@
-# Simply priority
+In project management, the key to effectiveness lies in simplicity. By introducing a two-tiered priority system—p1 and p2 strikes the ideal balance. This approach minimizes complexity, enabling teams to focus more on execution and less on decision-making. It streamlines team efforts, ensuring everyone is aligned and working towards common goals.
 
-In project management, it's crucial to strike a balance between simplicity and effectiveness. Adopting a streamlined priority system with just three levels—low, medium, and high—is that exact balance. By reducing the complexity of prioritization, teams can focus on execution and delivering value to stakeholders rather. This simplified approach reduces decision fatigue and helps maintain a clear, focused direction for project work.
+Such clarity in prioritization not only simplifies decision-making but also enhances resource allocation. By clearly identifying which tasks need immediate attention and which can wait, teams can adapt quickly and respond effectively to changes, leading to better project outcomes.
 
-By using a universal language of low, medium, and high priorities, team members can easily understand and align their efforts, ensuring that everyone is working towards the same goals. This structure also facilitates more effective resource allocation, as it makes it extremely easy to identify tasks requiring immediate attention and which can be deferred. Ultimately, a simplified priority system enables teams to stay nimble, adapt to changes more effectively, and deliver successful outcomes for their projects.
+Key benefits include:
 
-* Clarity: Easily understood priorities promote better decision-making and team alignment 🎯
-* Resource allocation: The simplified structure enables efficient assignment of resources to critical tasks 🔧
-* Adaptability: A streamlined priority system fosters flexibility and responsiveness to change 🌱
+* Clarity: A universal priority language ensures all team members understand and collaborate efficiently.
+* Efficient Resource Allocation: Simplifying priorities allows for targeted deployment of resources to the most critical tasks.
+* Increased Adaptability: A straightforward system enhances flexibility, making it easier to adjust to new challenges.
 
-The concept of focusing on a limited number of tasks aligns with the principles of OKR (Objectives and Key Results), a goal-setting framework used by successful companies like Google. Thought leaders in productivity and focused work, such as Tim Ferris, author of "The 4-Hour Workweek," and Cal Newport, author of "Deep Work," emphasize the importance of concentrating on the most critical tasks to achieve meaningful results. By limiting your focus to just three prioritized tasks per two weeks, you can ensure that your team is working on what truly matters and making a real impact.
+Embracing this simplified system parallels the principles of OKR (Objectives and Key Results), advocating focus on essential tasks for maximum impact, as championed by productivity experts like Tim Ferris and Cal Newport. 
 
-To ensure a sustainable and effective workflow, it's important to distribute tasks according to their priority level. Aim for roughly 80% of tasks to be low priority, 15% medium priority, and only 5% high priority. This distribution enables your team to continuously focus on what's truly important, while reducing cognitive load during high-priority tasks. Instead of constantly juggling numerous high-priority tasks, your team can allocate time and resources more effectively, addressing the most critical items when they have the capacity to do so. This approach fosters a more balanced, focused, and productive work environment.
+To optimize workflow, distribute tasks across the priority spectrum: 15% p1, 35% p2, other tasks? Later. This strategy focuses energy on the most impactful tasks right now, reducing overload and boosting productivity. This level of clarity and focus is essential in order to reach the escape velocity and for the flywheel effect to kick in. Ultimately, successful leadership involves deciding what not to do, and prioritizing effectively is a cornerstone of this philosophy. 
 
-After all, the hardest part of leading teams, is to choose what not to do. And lastly, dont keep business ideas in the backlog, those should be somewhere else. After all, the hardest part of leading teams, is to choose what not to do.
+PS Remember, ideas should not linger in the backlog but have a designated space for active consideration, such as a well thought out lean business case.
