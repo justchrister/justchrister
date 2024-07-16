@@ -2,7 +2,7 @@ im christer, a coder, founder, and friend. im really interested in product devel
 
 currently building a startup — <a href="https://ka.lt">Kalt</a> — the real impact investing platform; where anyone can build a purpose-driven portfolio of real assets that compound real impact.
 
-[co-founding engineers needed!](https://ka.lt/jobs)
+[founding engineers needed!](https://ka.lt/jobs)
 
 fav songs atm:
 1. [no name](https://www.youtube.com/watch?v=c3E8DW_u0a8) by gobbnjr
