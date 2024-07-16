@@ -1,6 +1,8 @@
 im christer, a coder, founder, and friend. im really interested in product development, systems-architecture, and finance. 
 
-currently building a startup — <a href="https://ka.lt">Kalt</a> — the real impact investing platform; where anyone can build a purpose-driven portfolio of real assets that create real impact and which aligns with your values. [co-founding engineers needed!](https://ka.lt/jobs)
+currently building a startup — <a href="https://ka.lt">Kalt</a> — the real impact investing platform; where anyone can build a purpose-driven portfolio of real assets that compound real impact.
+
+[co-founding engineers needed!](https://ka.lt/jobs)
 
 fav songs atm:
 1. [no name](https://www.youtube.com/watch?v=c3E8DW_u0a8) by gobbnjr
@@ -11,8 +13,4 @@ micro blog:
 - [The method](https://k-lt.medium.com/afb1f91f981d)
 - [The vision](https://ka.lt/vision)
 
-resources: [must watch talks ↗](https://www.youtube.com/playlist?list=PLpINr3cnEpaDbzmzf67x5vbjyZpdpFa_E) - [must read books](https://github.com/justchrister/justchrister/blob/main/books.md) - [valuable courses](https://github.com/justchrister/justchrister/blob/main/courses.md)
-
 connect: christer@ka.lt
-
-to all VCs, accelerators, and similar reaching out: pre-seed is min. € 100K @ € 11M valuation.
