@@ -16,7 +16,6 @@
         font: inherit;
         vertical-align: baseline;
       }
-      /* HTML5 display-role reset for older browsers */
       footer, header, menu, nav, section {
         display: block;
       }
@@ -27,9 +26,9 @@
         font-family: sans-serif;
         padding: 10px;
       }
-      h1,
-      nav{
-        display:inline-block;
+      header{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
       }
       h1{
         margin:0 5px 0 0;
@@ -44,22 +43,29 @@
       section{
         margin:15px 0;
       }
+      ul,
       ol{
         margin-left: 40px;
       }
       p{
         margin-bottom: 15px;
       }
+      a{
+        color:black;
+      }
+      footer{
+        text-align: center;
+      }
+      footer a {
+        margin: 0 5px;
+      }
     </style>
   </head>
   <body>
     <header>
       <h1>christer bjornstad</h1>
-      <nav class="inline">
+      <nav>
         <ul>
-          <li><a href="https://x.com/justchrister">twitter</a></li>
-          <li><a href="https://instagram.com/justchrister">insta</a></li>
-          <li><a href="https://github.com/justchrister">github</a></li>
           <li><a href="mailto:christer@ka.lt">christer@ka.lt</a></li>
           <li><a href="https://ka.lt/jobs">co-founders needed</a> ⚡️</li>
         </ul>
@@ -75,20 +81,22 @@
           currently building a startup — <a href="https://ka.lt">Kalt</a> — the real impact investing platform; where anyone can build a purpose-driven portfolio of real assets that compound real impact.
         </p>
         <p>
-          i have a deep passion for art and what it represents for society. art is the most powerful representation of the human experience.
+          i have a deep passion for art and what it represents for society; the most powerful representation of the human experience at any given moment. (95% of contemporary art sucks tho)
         </p>
         <p>
-        fav songs atm:
-        <ol>
-          <li><a href="https://www.youtube.com/watch?v=c3E8DW_u0a8">no name by gobbnjr</a></li>
-          <li><a href="https://www.youtube.com/watch?v=OOFNUh80Jnw">go by yowler</a> </li>
-          <li><a href="https://www.youtube.com/watch?v=ttv0eOktBtU">land where i land by novo amor</a></li>
-        </ol>
+        fav songs atm: <a href="https://www.youtube.com/watch?v=c3E8DW_u0a8">no name</a> by gobbnjr, <a href="https://www.youtube.com/watch?v=OOFNUh80Jnw">go</a> by yowler, and <a href="https://www.youtube.com/watch?v=ttv0eOktBtU">land where i land</a> by novo amor.
         </p>
       </section>
       <section id="blog">
         <p>micro blog: <a href="https://k-lt.medium.com/afb1f91f981d">The method</a>, <a href="https://ka.lt/vision">the vision</a></p>
       </section>
     </main>
+    <hr/>
+    <footer>
+      <a href="https://x.com/okchrister">twitter</a>
+      <a href="https://instagram.com/justchrister">insta</a>
+      <a href="https://tiktok.com/justchrister">tiktok</a>
+      <a href="https://github.com/justchrister">github</a>
+    </footer>
   </body>
 </html>
