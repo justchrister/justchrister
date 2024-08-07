@@ -163,6 +163,10 @@
         height:1px;
         background:blue;
       }
+      body{
+
+        padding-top:2px;
+      }
       main{
         margin-bottom: 100px;
       }
@@ -305,9 +309,19 @@
       <section onclick="toggle(this)">
         <h2>links</h2>
         <p>
-          <a href="https://x.com/okchrister">twitter</a>
+          <a href="https://x.com/okchrister">github</a>
+        </p>
+        <p>
           <a href="https://instagram.com/justchrister">insta</a>
+        </p>
+        <p>
           <a href="https://tiktok.com/justchrister">tiktok</a>
+        </p>
+        <p>
+          <a href="https://x.com/okchrister">linkedin</a>
+        </p>
+        <p>
+          <a href="https://x.com/okchrister">twitter</a>
         </p>
       </section>
       <!--
@@ -326,13 +340,15 @@
     </footer>
   </body>
   <script>
+    console.log('hi there! 👋');
     function toggle(element) {
+      var expandedElements = document.querySelectorAll('.expanded');
+        expandedElements.forEach(function(el) {
+        el.classList.remove('expanded');
+      });
       var className = element.getAttribute("class");
-      console.log(className);
       if(!className) {
         element.className = "expanded";
-      } else {
-        //element.className = "";
       }
     }
   </script>
