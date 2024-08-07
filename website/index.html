@@ -8,29 +8,36 @@
     <style>
       @font-face {
         font-family: 'TWKLausannePan';
+        src: url('https://justchrister.vercel.app/TWKLausannePan-250.woff2') format('woff2');
+        font-weight: 250;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'TWKLausannePan';
         src: url('https://justchrister.vercel.app/TWKLausannePan-300.woff2') format('woff2');
-        font-weight: 400;
+        font-weight: 300;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'TWKLausannePan';
         src: url('https://justchrister.vercel.app/TWKLausannePan-350.woff2') format('woff2');
-        font-weight: 450;
+        font-weight: 350;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'TWKLausannePan';
         src: url('https://justchrister.vercel.app/TWKLausannePan-400.woff2') format('woff2');
-        font-weight: 500;
+        font-weight: 400;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'TWKLausannePan';
         src: url('https://justchrister.vercel.app/TWKLausannePan-450.woff2') format('woff2');
-        font-weight: 550;
+        font-weight: 450;
         font-style: normal;
         font-display: swap;
       }
@@ -51,7 +58,7 @@
         line-height: 1;
         max-width:1920px;
         font-family: 'TWKLausannePan', sans-serif;
-        font-weight:400;
+        font-weight:300;
         padding: 10px;
       }
       header{
@@ -74,6 +81,7 @@
       }
       p{
         margin-bottom: 15px;
+        font-weight:250;
       }
       a{
         color:inherit;
@@ -152,6 +160,15 @@
       date{
         display:grid;
         grid-template-columns: 1fr 1fr 1fr;
+      }
+      .startupCols{
+        display:grid;
+        grid-template-columns: 3fr 1fr 1fr;
+      }
+      .startupCols p{
+        max-width:none;
+        margin:0;
+        margin-bottom:15px;
       }
     </style>
   </head>
@@ -246,7 +263,7 @@
             </date>
           </div>
           <div class="startupCols">
-            <p>fintech startup</p>
+            <p>fintech</p>
             <p>founder and ceo</p>
           </div>
         </article>
@@ -274,7 +291,7 @@
             </date>
           </div>
           <div class="startupCols">
-            <p>fintech startup</p>
+            <p>fintech</p>
             <p>founder and ceo</p>
           </div>
         </article>
