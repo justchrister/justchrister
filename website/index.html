@@ -55,6 +55,10 @@
       footer a {
         margin: 0 5px;
       }
+      header{
+
+        line-height:30px;
+      }
       .banner{
         background:blue;
         color:white;
@@ -66,6 +70,7 @@
         line-height:70px;
         text-align:center;
       }
+      header,
       section{
         border-bottom:1px solid blue;
         max-height:30px;
@@ -73,10 +78,18 @@
       }
       section.expanded{
         max-height:none;
-        border-left:1px solid blue;
+        padding:10vh   0;
       }
       h2{
         line-height:30px;
+      }
+      p{
+        max-width:500px;
+        margin:auto auto 15px auto;
+      }
+      section.expanded h2{
+        max-width:500px;
+        margin:auto;
       }
     </style>
   </head>
@@ -88,7 +101,6 @@
       <h1>christer bjornstad</h1>
       <a href="mailto:christer@ka.lt">christer@ka.lt</a>
     </header>
-    <hr/>
     <main>
       <section onclick="toggle(this)">
         <h2>about</h2>
@@ -103,23 +115,47 @@
         </p>
       </section>
       <section onclick="toggle(this)">
-        <h2>fav songs atmz</h2>
+        <h2>cv</h2>
+        <p>
+          im christer, a coder, founder, and friend. im really interested in product development, systems-architecture, and finance.
+        </p>
+        <p>
+          currently building a startup — <a href="https://ka.lt">Kalt</a> — the real impact investing platform; where anyone can build a purpose-driven portfolio of real assets that compound real impact.
+        </p>
+        <p>
+          i have a deep passion for art that represents the human experience at current moment in time. (95% of contemporary art sucks tho)
+        </p>
+      </section>
+      <section onclick="toggle(this)">
+        <h2>micro blog</h2>
+        <p>
+          <a href="https://k-lt.medium.com/afb1f91f981d">The method</a>
+        </p>
+        <p>
+          <a href="https://ka.lt/vision">the vision</a>
+        </p>
+      </section>
+      <section onclick="toggle(this)">
+        <h2>fav songs atm</h2>
         <p><a href="https://www.youtube.com/watch?v=c3E8DW_u0a8">no name</a> by gobbnjr, <a href="https://www.youtube.com/watch?v=OOFNUh80Jnw">go</a> by yowler, and <a href="https://www.youtube.com/watch?v=ttv0eOktBtU">land where i land</a> by novo amor.</p>
       </section>
       <section onclick="toggle(this)">
-        <h2>micro blog: </h2>
-        <p><a href="https://k-lt.medium.com/afb1f91f981d">The method</a>, <a href="https://ka.lt/vision">the vision</a></p>
+        <h2>links</h2>
+        <p>
+          <a href="https://x.com/okchrister">twitter</a>
+          <a href="https://instagram.com/justchrister">insta</a>
+          <a href="https://tiktok.com/justchrister">tiktok</a>
+        </p>
       </section>
       <section onclick="toggle(this)">
-        <h2>links: </h2>
-        <a href="https://x.com/okchrister">twitter</a>
-        <a href="https://instagram.com/justchrister">insta</a>
-        <a href="https://tiktok.com/justchrister">tiktok</a>
+        <h2>tools & resources</h2>
+        <p>
+          <a href="https://x.com/okchrister">twitter</a>
+          <a href="https://instagram.com/justchrister">insta</a>
+          <a href="https://tiktok.com/justchrister">tiktok</a>
+        </p>
       </section>
     </main>
-    <hr/>
-    <footer>
-    </footer>
   </body>
   <script>
     function toggle(element) {
