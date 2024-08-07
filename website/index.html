@@ -20,27 +20,6 @@
         font-style: normal;
         font-display: swap;
       }
-      @font-face {
-        font-family: 'TWKLausannePan';
-        src: url('https://justchrister.vercel.app/TWKLausannePan-350.woff2') format('woff2');
-        font-weight: 350;
-        font-style: normal;
-        font-display: swap;
-      }
-      @font-face {
-        font-family: 'TWKLausannePan';
-        src: url('https://justchrister.vercel.app/TWKLausannePan-400.woff2') format('woff2');
-        font-weight: 400;
-        font-style: normal;
-        font-display: swap;
-      }
-      @font-face {
-        font-family: 'TWKLausannePan';
-        src: url('https://justchrister.vercel.app/TWKLausannePan-450.woff2') format('woff2');
-        font-weight: 450;
-        font-style: normal;
-        font-display: swap;
-      }
       html, body, div, span, h1, h2, h3, h4, header,
       menu, nav, output, ruby, section, summary, 
       ul, ol, p, li{
@@ -163,12 +142,19 @@
       }
       .startupCols{
         display:grid;
-        grid-template-columns: 3fr 1fr 1fr;
+        grid-template-columns: 3fr 2fr;
       }
       .startupCols p{
         max-width:none;
         margin:0;
         margin-bottom:15px;
+      }
+      article .title date,
+      article .title h4{
+        margin:0;
+      }
+      article p{
+        color: #333;
       }
     </style>
   </head>
@@ -237,7 +223,7 @@
               <span class="to">2019</span>
             </date>
           </div>
-          <p>growth director (marketing and product development)</p>
+          <p>growth director</p>
         </article>
         <article>
           <div class="title">
