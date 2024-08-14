@@ -12,5 +12,16 @@
   </head>
   <body>
     <img src="https://justchrister.vercel.app/drop.jpg">
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const images = document.querySelectorAll('img');
+        images.forEach(img => {
+          img.addEventListener('click', function() {
+            window.open(img.src, '_blank');
+          });
+        });
+      });
+    </script>
   </body>
 </html>
