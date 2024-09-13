@@ -3,3 +3,5 @@ bot/node_modules/
 public/sw.js
 .nuxt/
 bot/.env
+.DS_Store
+website/.DS_Store
