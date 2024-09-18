@@ -10,7 +10,8 @@ fav songs atm:
 3. [land where i land ](https://www.youtube.com/watch?v=ttv0eOktBtU) by novo amor 
 
 micro blog:
-- [The method](https://k-lt.medium.com/afb1f91f981d)
 - [The vision](https://ka.lt/vision)
+- [The method](https://k-lt.medium.com/afb1f91f981d)
+- [The framework]([https://k-lt.medium.com/afb1f91f981d](https://mirage-cheese-d46.notion.site/The-framework-c4816438e43a4afd9874bd1e51a8f8a3?pvs=4))
 
 connect: christer@ka.lt
