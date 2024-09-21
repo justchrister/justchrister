@@ -180,13 +180,16 @@
       main{
         margin-bottom: 100px;
       }
-      #books p{
+      .custom-table p{
         display:grid;
-        grid-template-columns: 3fr 2fr;
+        grid-template-columns: 1fr 1fr;
         border-bottom: blue 1px solid;
         border-style: dotted;
       }
-      #books p .right{
+      .custom-table a{
+        text-decoration: none;
+      }
+      .custom-table p .right{
         text-align: right
       }
     </style>
@@ -298,15 +301,17 @@
       </section>
       <section onclick="expand(this)" id="books">
         <h2>books</h2>
-        <p><span> Mans search for meaning </span><span class="right"> Viktor Frankl</span></p>
-        <p><span> The effective executive </span><span class="right"> Peter Drucker</span></p>
-        <p><span> Good to great </span>          <span class="right"> James C. Collins</span></p>
-        <p><span> Atomic habits </span>          <span class="right"> Dan Builfford</span></p>
-        <p><span> Radical focus </span>          <span class="right"> Christina Wodtke</span></p>
-        <p><span> Deep work </span>              <span class="right"> Cal Newport</span></p>
-        <p><span> Give and take </span>          <span class="right"> Adam Grant</span></p>
-        <p><span> Super communicators </span>    <span class="right"> Charles Duhigg</span></p>
-        <p><span> Zero to one </span>            <span class="right"> Peter Thiel</span></p>
+        <div class="custom-table">
+          <p><span> Mans search for meaning </span><span class="right"> Viktor Frankl</span></p>
+          <p><span> The effective executive </span><span class="right"> Peter Drucker</span></p>
+          <p><span> Good to great </span>          <span class="right"> James C. Collins</span></p>
+          <p><span> Atomic habits </span>          <span class="right"> Dan Builfford</span></p>
+          <p><span> Radical focus </span>          <span class="right"> Christina Wodtke</span></p>
+          <p><span> Deep work </span>              <span class="right"> Cal Newport</span></p>
+          <p><span> Give and take </span>          <span class="right"> Adam Grant</span></p>
+          <p><span> Super communicators </span>    <span class="right"> Charles Duhigg</span></p>
+          <p><span> Zero to one </span>            <span class="right"> Peter Thiel</span></p>
+        </div>
       </section>
       <section onclick="expand(this)">
         <h2>fav songs atm</h2>
@@ -332,6 +337,16 @@
         <p>
           <a href="https://x.com/okchrister">twitter / x</a>
         </p>
+      </section>
+      <section onclick="expand(this)">
+        <h2>resources</h2>
+        <p> excluding obvious ones. </p>
+        <div class="custom-table">
+          <p><span> <a href="https://abtest.design">abtest.design</a>           </span><span class="right"> A/B test results</span></p>
+          <p><span> <a href="https://public.work">public.work</a>               </span><span class="right"> Free images</span></p>
+          <p><span> <a href="https://spline.design/">spline.design</a>          </span><span class="right"> Online 3d modelling</span></p>
+          <p><span> <a href="https://cargo.site/">cargo.site</a>                </span><span class="right"> Creative website builder </span></p>
+        </div>
       </section>
       <div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
     </main>
