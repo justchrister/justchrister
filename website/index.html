@@ -216,6 +216,32 @@
       .custom-table p .right{
         text-align: right
       }
+      section.expanded#blog article{
+        background: white;
+        border: white 1px solid;
+        max-height: 50vh;
+        min-height: 50vh;
+        max-width: 500px;
+        margin: auto;
+        margin-top: 10vh;
+        overflow: scroll;
+        box-sizing: border-box;
+        border:blue 1px solid;
+        margin-top:0;
+        margin-bottom:10vh;
+      }
+      .expanded#blog h2{
+        font-family: sans-serif;
+        margin: auto;
+        font-weight: normal;
+        font-size: 14px;
+        color: white;
+        background: blue;
+        border-top:white 50px solid;
+        padding: 100px 10px 10px 10px;
+        box-sizing: border-box;
+        margin-top:50px;
+      }
     </style>
   </head>
   <body>
@@ -235,57 +261,34 @@
         <p>
           need help with anything? <a href="mailto:christer@ka.lt">christer@ka.lt</a> 
         </p>
+        <p>links <a href="https://github.com/justchrister">github</a> and <a href="https://www.linkedin.com/in/justchrister/">linkedin</a>
       </section>
-
       <section onclick="expand(this)">
-        <h2>startups</h2>
+        <h2>work</h2>
         <article>
           <div class="title">
             <h4>Circular</h4>
             <date>now</date>
           </div>
           <div class="startupCols">
-            <p>b2b saas</p>
             <p>co-founder and cto</p>
+            <p>b2b saas</p>
           </div>
         </article>
         <article>
           <div class="title">
             <h4>Kalt</h4>
-            <date>2023-2024</date>
+            <date>2023 – 2024</date>
           </div>
           <div class="startupCols">
-            <p>fintech</p>
             <p>founder and ceo</p>
-          </div>
-        </article>
-        <article>
-          <div class="title">
-            <h4>Citrus</h4>
-            <date>2019 — 2022</date>
-          </div>
-          <div class="startupCols">
-            <p>creative studio</p>
-            <p>i did tech</p>
-          </div>
-        </article>
-        <article>
-          <div class="title">
-            <h4>Slight</h4>
-            <date>2019 — 2020</date>
-          </div>
-          <div class="startupCols">
             <p>fintech</p>
-            <p>co-founder and ceo</p>
           </div>
         </article>
-      </section>
-      <section onclick="expand(this)">
-        <h2>jobs</h2>
         <article>
           <div class="title">
             <h4>Saint-Gobain</h4>
-            <date>2022 — 2025</date>
+            <date>2022 — 2024</date>
           </div>
           <p>Product and team lead</p>
         </article>
@@ -298,10 +301,31 @@
         </article>
         <article>
           <div class="title">
+            <h4>Citrus</h4>
+            <date>2019 — 2022</date>
+          </div>
+          <div class="startupCols">
+            <p>i did tech</p>
+             <p>creative studio</p>
+          </div>
+        </article>
+        <article>
+          <div class="title">
             <h4>Saint-Gobain</h4>
             <date>2019 — 2021</date>
           </div>
           <p>ops and app manager</p>
+        </article>
+        <article>
+          <div class="title">
+            <h4>Slight</h4>
+            <date>2019 — 2020</date>
+          </div>
+          <div class="startupCols">
+            <p>co-founder and ceo</p>
+            <p>fintech</p>
+
+          </div>
         </article>
         <article>
           <div class="title">
@@ -318,17 +342,17 @@
           <p>server tech</p>
         </article>
       </section>
-      <section onclick="expand(this)">
-        <h2>micro blog</h2>
-        <p>
-          <a href="https://christer.site/blog#v">The vision</a>
-        </p>
-        <p>
-          <a href="https://christer.site/blog#m">The method</a>
-        </p>
-        <p>
-          <a href="https://christer.site/blog#f">The workflow</a>
-        </p>
+      <section onclick="expand(this)" id="blog">
+        <a href="#vision"><h2 id="vision">the vision</h2></a>
+        <article>
+
+        </article>
+      </section>
+      <section onclick="expand(this)" id="blog">
+        <h2>the method</h2>
+      </section>
+      <section onclick="expand(this)" id="blog">
+        <h2>the workflow</h2>
       </section>
       <section onclick="expand(this)" id="books">
         <h2>books</h2>
@@ -343,22 +367,6 @@
           <p><span> Super communicators </span>    <span class="right"> Charles Duhigg</span></p>
           <p><span> Zero to one </span>            <span class="right"> Peter Thiel</span></p>
         </div>
-      </section>
-      <section onclick="expand(this)">
-        <h2>fav songs atm</h2>
-        <p><a href="https://www.youtube.com/watch?v=c3E8DW_u0a8">no name</a> by gobbnjr, <a href="https://www.youtube.com/watch?v=OOFNUh80Jnw">go</a> by yowler, and <a href="https://www.youtube.com/watch?v=ttv0eOktBtU">land where i land</a> by novo amor.</p>
-      </section>
-      <section onclick="expand(this)" id="links">
-        <h2>links</h2>
-        <p>
-          <a href="https://getcircular.ai">Circular</a> (my startup)
-        </p>
-        <p>
-          <a href="https://github.com/justchrister">Github</a>
-        </p>
-        <p>
-          <a href="https://www.linkedin.com/in/justchrister/">linkedin</a>
-        </p>
       </section>
       <section onclick="expand(this)">
         <h2>resources</h2>
@@ -385,18 +393,6 @@
     </main>
   </body>
   <script>
-    console.log('hi there! 👋');
-    function openModal(event, element) {
-      event.stopPropagation();
-      var expandedElements = document.querySelectorAll('.openModal');
-        expandedElements.forEach(function(el) {
-        el.classList.remove('openModal');
-      });
-      var className = element.getAttribute("class");
-      if(!className) {
-        element.className = "openModal";
-      }
-    }
     function expand(element) {
       var expandedElements = document.querySelectorAll('.expanded');
         expandedElements.forEach(function(el) {
