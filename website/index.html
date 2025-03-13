@@ -216,31 +216,8 @@
       .custom-table p .right{
         text-align: right
       }
-      section.expanded#blog article{
-        background: white;
-        border: white 1px solid;
-        max-height: 50vh;
-        min-height: 50vh;
-        max-width: 500px;
-        margin: auto;
-        margin-top: 10vh;
-        overflow: scroll;
-        box-sizing: border-box;
-        border:blue 1px solid;
-        margin-top:0;
-        margin-bottom:10vh;
-      }
-      .expanded#blog h2{
-        font-family: sans-serif;
-        margin: auto;
-        font-weight: normal;
-        font-size: 14px;
-        color: white;
-        background: blue;
-        border-top:white 50px solid;
-        padding: 100px 10px 10px 10px;
-        box-sizing: border-box;
-        margin-top:50px;
+      section#blog a {
+        text-decoration:none;
       }
     </style>
   </head>
@@ -343,15 +320,11 @@
         </article>
       </section>
       <section id="blog">
-        <a href="/vision"><h2 id="vision">the vision</h2></a>
-        <article>
-
-        </article>
+        <a href="/method.html">
+            <h2>the method</h2>
+        </a>
       </section>
       <section id="blog">
-        <h2>the method</h2>
-      </section>
-      <section onclick="expand(this)" id="blog">
         <a href="/framework">
           <h2>the framework</h2>
         </a>
