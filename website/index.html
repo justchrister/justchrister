@@ -13,7 +13,7 @@
       
       html{
                 background: white;
-      }
+      }button,
       html, body, div, span, h1, h1, h3
       menu, nav, output, table,
       ul, ol, p, li, a{
@@ -88,16 +88,18 @@
       }
       table.expanded tr td{
         max-height: 90000px;
+        padding-bottom: 6px;
       }
       table tr td.n{
         border-bottom: transparent 1px solid;
       }
       table tr,
-      table.expanded.c6 tr{ grid-template-columns: 1.2fr 6fr;}
-      table.expanded.c42 tr{ grid-template-columns: 1.2fr 4fr 2fr; }
-      table.expanded.c24 tr{ grid-template-columns: 1.2fr 2fr 4fr; }
-      table.expanded.c222 tr{ grid-template-columns: 1.2fr 2fr 2fr 2fr; }
-      table.expanded.c122 tr{ grid-template-columns: 1.2fr 1fr 2.5fr 2.5fr; }
+      table.expanded.c6 tr{ grid-template-columns: 2fr 6fr;}
+      table.expanded.c42 tr{ grid-template-columns: 2fr 4fr 2fr; }
+      table.expanded.c24 tr{ grid-template-columns: 2fr 2fr 4fr; }
+      table.expanded.c222 tr{ grid-template-columns: 2fr 2fr 2fr 2fr; }
+      table.expanded.c15 tr{ grid-template-columns: 2fr 1fr 5fr; }
+      table.expanded.c122 tr{ grid-template-columns: 2fr 1fr 2.5fr 2.5fr; }
       .insignia,
       .insignia2,
       .insignia3{
@@ -135,6 +137,7 @@
       }
         button{
           background:white;
+
           color:blue;
 
         border:blue 1px solid;
@@ -157,6 +160,7 @@
   height:10px;
 }
 .icon.one::before {
+  content: "⌭";
   animation: one 10s infinite;
   animation-delay: 4s;
 }
@@ -188,7 +192,7 @@
               im christer, a coder, founder, and friend. i work with products ml, sustainability, and finance.
             </p>
             <p>
-              currently building proprietary models and ui/ux at <a href="https://getcircular.ai">Circular</a> give resale businesses an advantage over linear businesses.
+              currently building proprietary models and ui/ux at <a href="https://getcircular.ai">Circular</a> giving resale businesses an advantage over linear businesses.
             </p>
             <p class="grid c2">           
               <a href="https://github.com/justchrister"><button>github</button></a> <a href="https://www.linkedin.com/in/justchrister/"><button>linkedin</button></a>
@@ -207,88 +211,87 @@
     <td>Predicting prices with xgboost</td>
   </tr>
 </table>
-        <table onclick="expand(this)" class="c6">
+        <table onclick="expand(this)" class="c42">
           <tr><td>✺ method</td><td></td></tr>
           <tr>
             <td>
               ✺ method
             </td> 
             <td>
-              <p>
-        i've attempted to document the meta-methodology that gives me the capacity to do intense
-        100h work weeks, lead a high performing team, and still be present for the moments that
-        matter. 
-        </p>
-        <p>
-        it works, because i am opinionated in who i work with and how i
-        work. this lightweight system is designed for my life, with support-systems and
-        optimizations.
-        </p>
-        <p>
-          <a href="/framework">
-            read ※
-        </a>
-        </p>
+              intro
+            </td>
+            <td ></td> 
+          </tr>
+          <tr>
+            <td class="n"></td> 
+            <td class="n">
+              background
+            </td>
+            <td class="n">
+              0.1
             </td>
           </tr>
+          <tr>
+            <td class="n"></td> 
+            <td class="n">
+              philosophy
+            </td>
+            <td class="n">
+              0.2
+            </td>
+          </tr>
+          <tr>
+            <td class="n"></td>
+          </tr>
+          <tr>
+            <td class="n"></td>
+            </td>
+            <td>direction</td> 
+            <td>
+            </td>
+          </tr>
+          <tr>
+            <td class="n"></td> 
+            <td class="n">
+              vision
+            </td>
+          </tr>
+          <tr>
+            <td class="n"></td> 
+            <td class="n">
+              mission
+            </td>
+          </tr>
+          <tr>
+            <td class="n"></td> 
+            <td>
+              goals
+            </td>
+            <td>
+              goals
+            </td>
+          </tr>
+
+          
         </table>
 
-  <table onclick="expand(this)" class="c122">
+  <table onclick="expand(this)" class="c15">
   
     <tr><td>※ tech</td><td></td></tr>
       <tr>
         <td>※ tech </td>
         <td>ml</td> 
-        <td> xgboost </td>
-        <td> framework</td>
-      </tr>
-      <tr>
-        <td class="n"></td>
-        <td class="n"></td>
-        <td> shap </td>
-        <td> feature selection</td>
-      </tr>
-      <tr>
-        <td class="n"></td>
-        <td class="n"></td>
-        <td> optuna </td>
-        <td> hyper param tuning</td>
+        <td> xgboost, shap, optuna </td>
       </tr>
     <tr>
       <td class="n"></td>
       <td>web</td>
-      <td> framework</td>
-      <td> next.js </td>
+      <td> next, shadcn, t3.gg</td>
     </tr>
     <tr>
       <td class="n"></td>
-      <td class="n"></td>
-      <td> ui lib</td>
-      <td> shadcn </td>
-    </tr>
-    <tr>
-      <td class="n"></td>
-      <td class="n"></td>
-      <td>ecosystem</td>
-      <td>t3.gg</td>
-    </tr>
-    <tr>
-      <td class="n"></td>
-      <td class="n"></td>
-      <td> host </td>
-      <td> vercel </td>
-    </tr>
-    <tr>
-      <td class="n"></td>
-      <td class="n"></td>
-      <td> pub/sub</td>
-      <td> upstash </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td> auth, db</td>
-      <td> supabase </td>
+      <td>infra</td>
+      <td> vercel, upstash, supabase, resend </td>
     </tr>
   </table>
 
@@ -311,7 +314,7 @@
     <tr>
 
       <td class="n"></td>
-      <td>Citrus Studio</td>
+      <td>Citrus</td>
       <td>tech</td>
       <td>2019</td>
     </tr>
