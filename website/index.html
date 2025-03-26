@@ -130,34 +130,68 @@
         background:blue;
       }
 
-      .icon{
-        width:20px;
-        height:20px;
-        background:blue;
-      }
       a{
         text-decoration: underline;
       }
-      
+        button{
+          background:white;
+          color:blue;
+
+        border:blue 1px solid;
+        width:100%;
+        padding:5px 0;
+        border-radius:0%;
+      }
+      .grid{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        gap:10px;
+      }
+      .grid.c2{
+        grid-template-columns: 1fr 1fr;
+      }
+      .icon::before {
+  content: "❂";
+  display:inline-block;
+  width:20px;
+  height:10px;
+}
+.icon.one::before {
+  animation: one 10s infinite;
+  animation-delay: 4s;
+}
+
+@keyframes one {
+  0%   { content: "⌭"; }
+  1%  { content: "⎉"; }
+  2%  { content: "⌭"; }
+  3%  { content: "⌮"; }
+  4%  { content: "⌱"; }
+  5% { content: "⎌"; }
+  6%   { content: "⎄"; }
+  7%   { content: "⌭"; }
+  100%   { content: "⌭"; }
+}
     </style>
   </head>
   <body id="loool">
       <section>
         <table onclick="expand(this)" class="c6">
-          <tr><td> ⌭ christer</td><td></td></tr>
+          <tr><td class="icon one">christer</td><td></td></tr>
           <tr>
             <td>
+              
               ⌭ christer
             </td>
             <td>
               <p>
-              im christer, a coder, founder, and friend. im really interested in product dev, ml, systems-architecture, sustainability, and finance.
+              im christer, a coder, founder, and friend. i work with products ml, sustainability, and finance.
             </p>
             <p>
-              i build proprietary models and cool ui/ux at <a href="https://getcircular.ai">Circular</a> to beat fast-fashion players at their own game.
+              currently building proprietary models and ui/ux at <a href="https://getcircular.ai">Circular</a> give resale businesses an advantage over linear businesses.
             </p>
-            <p>           
-               <a href="mailto:christer@ka.lt">christer@ka.lt</a>, <a href="https://github.com/justchrister">github</a> and <a href="https://www.linkedin.com/in/justchrister/">linkedin  
+            <p class="grid c2">           
+              <a href="https://github.com/justchrister"><button>github</button></a> <a href="https://www.linkedin.com/in/justchrister/"><button>linkedin</button></a>
             </p>
             </td>
           </tr>
