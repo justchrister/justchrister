@@ -1,0 +1,155 @@
+<html>
+  <head>
+    <style>
+      body {
+        background: white;
+        margin: 0;
+        padding: 0 20px;
+
+        background-image: radial-gradient(rgb(0, 0, 255) 10%, transparent 10%),
+          radial-gradient(rgb(0, 0, 255) 10%, transparent 10%);
+        background-position: 0px 0px, 4px 4px;
+        background-size: 8px 8px;
+        background-color: rgb(255, 255, 255);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+      article {
+        background: white;
+        border: blue 1px solid;
+        max-height: 400px;
+        height: 80vh;
+        max-width: 500px;
+        margin: auto;
+        overflow: scroll;
+      }
+      h1 {
+        font-family: sans-serif;
+        margin: 0;
+        font-weight: normal;
+        font-size: 14px;
+        color: white;
+        background: blue;
+        padding: 10px 10px 10px 10px;
+        box-sizing: border-box;
+        margin-bottom: 10px;
+      }
+      h2 {
+        margin: 50px 10px 0px 10px;
+      }
+      ul {
+        list-style: disc;
+        padding-left: 30px;
+      }
+      ol {
+        list-style: decimal;
+        padding-left: 30px;
+      }
+      img {
+        display: block;
+        max-width: 100%;
+        margin: 10px auto;
+      }
+      h2 {
+        font-size: 18px;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      p {
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: normal;
+      }
+      h2,
+      h3,
+      h3,
+      p {
+        color: blue;
+      }
+      p,
+      ul,
+      ol {
+        margin: 10px;
+      }
+      h2, h3 {
+        margin: 10px 10px 0px 10px;
+      }
+      blockquote {
+        margin: 10px 20px;
+        padding: 0 5px;
+        border-left: 2px solid blue;
+        font-style: italic;
+      }
+      ul {
+        list-style: disc;
+        padding-left: 30px;
+      }
+      ol {
+        list-style: decimal;
+        padding-left: 30px;
+      }
+      img {
+        display: block;
+        max-width: 100%;
+        margin: 10px auto;
+      }
+      h2 {
+        font-size: 14px;
+      }
+      h3 {
+        font-size: 14px;
+        font-weight: normal;
+      }
+      ul li {
+        color: blue;
+        font-size:14px;
+        font-family: sans-serif;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+      }
+      .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 0px;
+        margin: 0px;
+        padding: 0px;
+        height: 24px;
+        padding-bottom: 10px;
+        border-bottom: 1px dashed blue;
+      }
+      .table{
+        margin: 50px;
+        padding: 20px;
+        border: 1px dashed blue;
+      }
+    </style>
+  </head>
+  <body>
+    <article>
+      <h1><a href="/method">the method</a> / phases / MVP - minimal viable product</a></h1>
+        <p>
+          Launch a basic version of the feature that is functional enough for users to engage with and provide feedback on its core value.
+        </p>
+        <p>Do:</p>
+        <ul>
+          <li>Bloated logging</li>
+          <li>Manual processes</li>
+          <li>Introduce high interest tech debt during development, then remove before deployment</li>
+          <li>Introduce low interest tech debt during development, note it for the CVP phase</li>
+        </ul>
+        <p>Dont:</p>
+        <ul>
+          <li>None to some test coverage (focus on testing behavior, not just implementation)</li>
+          <li>None to high limits on infrastructure costs (introduce alerts if budgets are tight)</li>
+        </ul>
+    </article>
+  </body>
+</html>
