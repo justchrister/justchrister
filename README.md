@@ -1,8 +1,10 @@
-im christer, a coder, founder, and friend. im really interested in product development, sustainability, systems-architecture, and finance. 
+# im back
+
+im christer, a coder, founder, and friend. im really interested in product development and finance. 
 
 fav songs atm:
-1. [no name](https://www.youtube.com/watch?v=c3E8DW_u0a8) by gobbnjr
-2. [go](https://www.youtube.com/watch?v=OOFNUh80Jnw) by yowler
-3. [land where i land ](https://www.youtube.com/watch?v=ttv0eOktBtU) by novo amor 
+1. [violent methods](https://www.youtube.com/watch?v=1yjVdwJ6lYs) by nico moreno
+2. [i see a thing behind the wall](https://www.youtube.com/watch?v=019rfCwX8-U) by wndrlst
+3. [fortunate song](https://www.youtube.com/watch?v=3RmQTYLD398) by creedence clearwater 
 
-connect: christer@ka.lt /  [ka.lt](https://ka.lt)
+connect: cb@ka.lt /  [ka.lt](https://ka.lt)
